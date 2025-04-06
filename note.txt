@@ -1,0 +1,49 @@
+Font family====
+            Popins 400 500 700
+            .poppins-regular {
+            font-family: "Poppins", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+}
+            Roboto 400
+            .roboto-<uniquifier> {
+            font-family: "Roboto", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: <weight>;
+            font-style: normal;
+            font-variation-settings:
+            "wdth" 100;
+}
+
+
+color========
+         black #000000;
+         Orange #FD511A;
+         green #21B573;
+responsive=======
+
+spacing--Margin&padding
+alignment--
+order---
+size-- font,item
+                xxl/xl/lg           md                  sm/color
+Header-------
+    Margin====>     
+    padding===>     15              15                      5
+    alignment==>
+    font=======>
+    order======>
+Banner---------
+    bp              65px            65px                   60px
+    h1              48px            40px                   30px
+feature---------
+    c_p            100px            80px                   60px
+    mt              45px            30px                   30px
+    f_s             24px            24px                   24px
+
+course----------
+    h1              36px            30px                   25px
+    h2              24px            24px                   22px
+Testymoni---------
+
+footer-----------
